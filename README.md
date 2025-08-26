@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erickmartinezdeanda" alt="erickmartinezdeanda" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ERICKMARTINEZDEANDA](https://github.com/ERICKMARTINEZDEANDA)
-
 - 📫 How to reach me **ingerickandre@gmx.com**
 
 - 📄 Know about my experiences [My main value: I combine in-depth hardware knowledge (microcontrollers, CNC machinery, AutoCAD) with mastery of the full technology stack (firmware, backend/SQL, frontend) to create functional, well-documented technical solutions focused on solving real-world problems.](My main value: I combine in-depth hardware knowledge (microcontrollers, CNC machinery, AutoCAD) with mastery of the full technology stack (firmware, backend/SQL, frontend) to create functional, well-documented technical solutions focused on solving real-world problems.)
