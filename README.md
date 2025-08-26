@@ -25,4 +25,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erickmartinezdeanda&" alt="erickmartinezdeanda" /></p>
 
-https://github-profile-trophy.vercel.app/?username=ERICKMARTINEZDEANDA&theme=darkhub
+[![trophy](https://github-profile-trophy.vercel.app/?username=ERICKMARTINEZDEANDA&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
