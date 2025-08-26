@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ERICK ANDRE MARTINEZ DE ANDA</h1>
-<h3 align="center">Ingeniero Mecatrónico Agricola| Especialista en Sistemas Embebidos & IoT | Integración Hardware-Software | Automatización & Análisis de Datos</h3>
+<h3 align="center">Ingeniero Mecatrónico Agricola | Especialista en Sistemas Embebidos & IoT | Integración Hardware-Software | Automatización & Análisis de Datos</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erickmartinezdeanda&label=Profile%20views&color=0e75b6&style=flat" alt="erickmartinezdeanda" /> </p>
 
