@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erickmartinezdeanda&label=Profile%20views&color=0e75b6&style=flat" alt="erickmartinezdeanda" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erickmartinezdeanda" alt="erickmartinezdeanda" /></a> </p>
-
 - 📫 How to reach me **ingerickandre@gmx.com**
 
 - 📄 Know about my experiences [My main value: I combine in-depth hardware knowledge (microcontrollers, CNC machinery, AutoCAD) with mastery of the full technology stack (firmware, backend/SQL, frontend) to create functional, well-documented technical solutions focused on solving real-world problems.](My main value: I combine in-depth hardware knowledge (microcontrollers, CNC machinery, AutoCAD) with mastery of the full technology stack (firmware, backend/SQL, frontend) to create functional, well-documented technical solutions focused on solving real-world problems.)
